@@ -1,7 +1,7 @@
 import streamlit as st
 from transformers import pipeline
 
-st.set_page_config(page_title="My First AI App")
+st.set_page_config(page_title="SENTIMENT ANALYSIS AND WORD GUESSING APP ")
 st.title("My First AI App")
 
 
