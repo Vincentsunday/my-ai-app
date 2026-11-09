@@ -1,8 +1,8 @@
 import streamlit as st
 from transformers import pipeline
 
-st.set_page_config(page_title="SENTIMENT ANALYSIS AND WORD GUESSING APP ")
-st.title("My First AI App")
+st.set_page_config(page_title="My AI App")
+st.title("SENTIMENT ANALYSIS AND WORD GUESSING APP")
 
 
 # Load each model only once, then keep it in memory (this saves time and memory)
